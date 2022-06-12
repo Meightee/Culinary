@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Culinary</string>
+    <string name="title_home">Меню</string>
+    <string name="title_search">Поиск</string>
+    <string name="favorite">Избранное</string>
+    <string name="ingredients">Ингредиенты</string>
+</resources>
